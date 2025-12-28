@@ -3,3 +3,8 @@ __pycache__/
 .DS_Store
 *.png
 *.py
+*.pptx
+*.pickle
+*.csv
+Datos/
+data/

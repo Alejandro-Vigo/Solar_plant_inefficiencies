@@ -66,9 +66,3 @@ Ensure you have Python 3.8+ installed.
    - Module temperature follows irradiation closely. However, peak efficiency is observed before the maximum daily temperature is reached, confirming that excessive heat can marginally reduce panel efficiency.
 3. **Data Gaps**:
    - Several days show zero irradiation readings during daylight hours while power generation is non-zero, indicating sensor dropouts.
-
-## 🛠 Tech Stack
-- **Python**: Core language
-- **Pandas**: Data manipulation
-- **Seaborn/Matplotlib**: Visualization
-- **Jupyter**: Interactive Development Environment
