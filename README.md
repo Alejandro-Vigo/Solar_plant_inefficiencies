@@ -14,8 +14,6 @@ This project focuses on the **predictive maintenance** and **performance analysi
 ├── 01_Data_quality.ipynb         # Data cleaning: Nulls, duplicates, consistency checks
 ├── 02_Data_transformation.ipynb  # Feature engineering: Creating the efficiency KPI
 ├── 03_Analysis_insights.ipynb    # Statistical analysis & visualization
-├── Solar_plant.pptx              # Original presentation (Spanish)
-├── Solar_plant_translated.pptx   # Updated presentation (English)
 ├── README.md                     # Project documentation
 └── requirements.txt              # Python dependencies
 ```
